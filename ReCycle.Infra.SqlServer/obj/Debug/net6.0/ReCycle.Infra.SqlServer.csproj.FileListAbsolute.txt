@@ -1,0 +1,68 @@
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.deps.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.runtimeconfig.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Domain.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Domain.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.AssemblyReference.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.AssemblyInfoInputs.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.AssemblyInfo.cs
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.CoreCompileInputs.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.CopyComplete
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\refint\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.genruntimeconfig.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ref\ReCycle.Infra.SqlServer.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.deps.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.runtimeconfig.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Domain.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Domain.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.AssemblyReference.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.AssemblyInfoInputs.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.AssemblyInfo.cs
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.CoreCompileInputs.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.CopyComplete
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\refint\ReCycle.Infra.SqlServer.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.genruntimeconfig.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ref\ReCycle.Infra.SqlServer.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.deps.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.runtimeconfig.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Domain.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Domain.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.AssemblyReference.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.AssemblyInfoInputs.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.AssemblyInfo.cs
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.CopyComplete
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\refint\ReCycle.Infra.SqlServer.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.genruntimeconfig.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ref\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.deps.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.runtimeconfig.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Domain.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\bin\Debug\net6.0\ReCycle.Domain.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.AssemblyReference.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.AssemblyInfoInputs.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.AssemblyInfo.cs
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.CoreCompileInputs.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.csproj.CopyComplete
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\refint\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ReCycle.Infra.SqlServer.genruntimeconfig.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Infra.SqlServer\obj\Debug\net6.0\ref\ReCycle.Infra.SqlServer.dll

@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Api\\ReCycle.Application.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Api\\ReCycle.Application.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Api\\ReCycle.Application.Api.csproj",
+        "projectName": "ReCycle.Application.Api",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Api\\ReCycle.Application.Api.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Service\\ReCycle.Application.Service.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Service\\ReCycle.Application.Service.csproj"
+              },
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Infra.SqlServer\\ReCycle.Infra.SqlServer.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Infra.SqlServer\\ReCycle.Infra.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Service\\ReCycle.Application.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Service\\ReCycle.Application.Service.csproj",
+        "projectName": "ReCycle.Application.Service",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Service\\ReCycle.Application.Service.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Application.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain.Service\\ReCycle.Domain.Service.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain.Service\\ReCycle.Domain.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain.Service\\ReCycle.Domain.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain.Service\\ReCycle.Domain.Service.csproj",
+        "projectName": "ReCycle.Domain.Service",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain.Service\\ReCycle.Domain.Service.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Infra.SqlServer\\ReCycle.Infra.SqlServer.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Infra.SqlServer\\ReCycle.Infra.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain\\ReCycle.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain\\ReCycle.Domain.csproj",
+        "projectName": "ReCycle.Domain",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain\\ReCycle.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Castle.Windsor": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Infra.SqlServer\\ReCycle.Infra.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Infra.SqlServer\\ReCycle.Infra.SqlServer.csproj",
+        "projectName": "ReCycle.Infra.SqlServer",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Infra.SqlServer\\ReCycle.Infra.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Infra.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain\\ReCycle.Domain.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\ReCycle\\ReCycle.Domain\\ReCycle.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

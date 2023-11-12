@@ -1,0 +1,68 @@
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.deps.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.AssemblyReference.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.AssemblyInfoInputs.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.AssemblyInfo.cs
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.CoreCompileInputs.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.CopyComplete
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\refint\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ref\ReCycle.Domain.Service.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.deps.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.AssemblyReference.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.AssemblyInfoInputs.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.AssemblyInfo.cs
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.CoreCompileInputs.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.CopyComplete
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\refint\ReCycle.Domain.Service.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ref\ReCycle.Domain.Service.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.deps.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.AssemblyReference.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.AssemblyInfoInputs.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.AssemblyInfo.cs
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.CopyComplete
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\refint\ReCycle.Domain.Service.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ref\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.deps.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.Service.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\bin\Debug\net6.0\ReCycle.Domain.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.AssemblyReference.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.AssemblyInfoInputs.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.AssemblyInfo.cs
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.CoreCompileInputs.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.csproj.CopyComplete
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\refint\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ReCycle.Domain.Service.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Domain.Service\obj\Debug\net6.0\ref\ReCycle.Domain.Service.dll

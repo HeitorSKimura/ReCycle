@@ -1,0 +1,388 @@
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\appsettings.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.exe
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.deps.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.runtimeconfig.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Castle.Core.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Castle.Windsor.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Humanizer.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.AssemblyReference.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.AssemblyInfoInputs.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.AssemblyInfo.cs
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.CoreCompileInputs.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.ReCycle.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.ReCycle.Application.Api.props
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReCycle.Application.Api.props
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReCycle.Application.Api.props
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\scopedcss\bundle\ReCycle.Application.Api.styles.css
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.CopyComplete
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\refint\ReCycle.Application.Api.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.genruntimeconfig.cache
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ref\ReCycle.Application.Api.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Service.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Service.pdb
+F:\Linguagem de Programação\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.Service.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\appsettings.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.exe
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.deps.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.runtimeconfig.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Castle.Core.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Castle.Windsor.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Humanizer.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Service.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.Service.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Service.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.Service.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.AssemblyReference.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.AssemblyInfoInputs.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.AssemblyInfo.cs
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.CoreCompileInputs.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.ReCycle.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.ReCycle.Application.Api.props
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReCycle.Application.Api.props
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReCycle.Application.Api.props
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\scopedcss\bundle\ReCycle.Application.Api.styles.css
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.CopyComplete
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\refint\ReCycle.Application.Api.dll
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.pdb
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.genruntimeconfig.cache
+E:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ref\ReCycle.Application.Api.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\appsettings.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.exe
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.deps.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.runtimeconfig.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Castle.Core.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Castle.Windsor.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Service.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.Service.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Service.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.Service.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.AssemblyReference.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.AssemblyInfoInputs.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.AssemblyInfo.cs
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.ReCycle.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.ReCycle.Application.Api.props
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReCycle.Application.Api.props
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReCycle.Application.Api.props
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\scopedcss\bundle\ReCycle.Application.Api.styles.css
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.CopyComplete
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\refint\ReCycle.Application.Api.dll
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.pdb
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.genruntimeconfig.cache
+D:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ref\ReCycle.Application.Api.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\appsettings.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.exe
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.deps.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.runtimeconfig.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Api.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Castle.Core.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Castle.Windsor.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Humanizer.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Service.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.Service.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Infra.SqlServer.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Application.Service.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Infra.SqlServer.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\bin\Debug\net6.0\ReCycle.Domain.Service.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.AssemblyReference.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.AssemblyInfoInputs.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.AssemblyInfo.cs
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.CoreCompileInputs.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.ReCycle.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.ReCycle.Application.Api.props
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReCycle.Application.Api.props
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReCycle.Application.Api.props
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\scopedcss\bundle\ReCycle.Application.Api.styles.css
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.csproj.CopyComplete
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\refint\ReCycle.Application.Api.dll
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.pdb
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ReCycle.Application.Api.genruntimeconfig.cache
+F:\Linguagem de Programação II\DDD\ReCycle\ReCycle.Application.Api\obj\Debug\net6.0\ref\ReCycle.Application.Api.dll
