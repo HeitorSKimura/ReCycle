@@ -18,4 +18,4 @@ Exibir -> Pesquisador de Projetos do SQL Server
 SQL Server -> localdb -> Banco de Dados do Sistema -> ReCycle -> Tabelas 
 
 # Atenção:
-## Não esqueça de apagar a Migration em 04 - Infra.SqlServer e apagar o Banco de Dados Local em Exibir -> Pesquisador de Projetos do SQL Server após apagar os seguintes campos retomar os comandos do campo 02
+## Não esqueça de apagar a Migration em Infra.SqlServer e apagar o Banco de Dados Local em Exibir -> Pesquisador de Projetos do SQL Server após apagar os seguintes campos retomar os comandos do campo 02
