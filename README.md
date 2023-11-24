@@ -16,18 +16,19 @@ SDK - https://dotnet.microsoft.com/download
 3. Restaure as dependências: `dotnet restore`
 4. Execute o aplicativo: `dotnet run` F5
 
-## 01 - Para criação de um novo banco de dados
+## Para Criar e Executar o Banco de Dados:
+### 01 - Para criação de um novo banco de dados
 Ferramentas -> Gerenciador de Pacotes do NuGet -> Console do Gerenciador de Pacotes
 
-## 02 - Dentro do console de pacotes canto superio Direito selecionar ( 04 - Infra.SqlServer ) e iniciar os seguintes comandos:
+### 02 - Dentro do console de pacotes canto superio Direito selecionar ( 04 - Infra.SqlServer ) e iniciar os seguintes comandos:
 `PM> Add-Migration QualquerNome`
 <br/>
 `PM> Update-Database`
 
-## 03 - Para Verificar o conteudo do Banco de Dados
+### 03 - Para Verificar o conteudo do Banco de Dados
 Exibir -> Pesquisador de Projetos do SQL Server
 
-## 04 - Selecione a pasta: 
+### 04 - Selecione a pasta: 
 SQL Server -> localdb -> Banco de Dados do Sistema -> ReCycle -> Tabelas 
 
 # Atenção:
