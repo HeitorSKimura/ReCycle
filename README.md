@@ -2,6 +2,7 @@
 
 ## Aplicativos Necessários:
 Visual Studio - https://visualstudio.microsoft.com/pt-br/downloads/ (Comunidade)
+<br/>
 SDK - https://dotnet.microsoft.com/download
 
 ### Items Necessários Para o Visual Studio:
