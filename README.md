@@ -1,5 +1,8 @@
 # ReCycle
 
+## Descrição:
+Este Projeto visa incentivar a prática de reciclagem, transformando-a em uma experiência recompensadora para os Descartantes e otimizar o trabalho dos Coletores de recicláveis. Tendo em vista a monetização com o uso de Propagandas de Lojas que fizerem parte do aplicativo.
+
 ## Aplicativos Necessários:
 Visual Studio - https://visualstudio.microsoft.com/pt-br/downloads/ (Comunidade)
 <br/>
